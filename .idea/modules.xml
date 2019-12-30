@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zing-commons/zing-commons.iml" filepath="$PROJECT_DIR$/zing-commons/zing-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zing-dao/zing-dao.iml" filepath="$PROJECT_DIR$/zing-dao/zing-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zing-domain/zing-domain.iml" filepath="$PROJECT_DIR$/zing-domain/zing-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zing-security.iml" filepath="$PROJECT_DIR$/zing-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zing-service/zing-service.iml" filepath="$PROJECT_DIR$/zing-service/zing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zing-web/zing-web.iml" filepath="$PROJECT_DIR$/zing-web/zing-web.iml" />
+    </modules>
+  </component>
+</project>
