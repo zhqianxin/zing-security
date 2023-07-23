@@ -35,7 +35,7 @@
         <mysql.connector.verion>5.1.47</mysql.connector.verion>
         <sqlserver.connector.version>4.0</sqlserver.connector.version>
         <lombok.version>1.18.4</lombok.version>
-        <commons.text.version>1.6</commons.text.version>
+        <commons.text.version>1.10.0</commons.text.version>
     </properties>
 
     <dependencyManagement>
